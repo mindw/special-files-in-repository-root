@@ -50,6 +50,12 @@ Mentioning other work, their copyright notice and used license can be done in `A
 
 If your project builds upon other software, parts of software (libraries) or simply work owned by someone else, it depends on their license how you have to acknowledge its usage in your project. Usually you have to state their copyright notice and license used somewhere in your project.
 
+## Support `SUPPORT.md` `SUPPORT`
+
+To better direct users to dedicated support channels, you can now describe your project's support resources in a SUPPORT file.
+
+Instead of describing how to contribute to the project like CONTRIBUTING files do, SUPPORT files can be used to direct users to dedicated support resources, such as community forums, FAQ documents, or corporate support channels.
+
 # Other
 
 ## Code of Conduct `CODE_OF_CONDUCT.md`
